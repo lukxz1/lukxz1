@@ -1,6 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OI,+MEU+NOME+E+Lucas+Lohan+Costa+Farias;EU+Tenho+17+Anos;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg) 
+## 👨‍💻 Quem sou eu
+
+ 🙋‍♂️Sou Lucas Lohan, tenho 17 anos e estou cursando o curso Tec. em Informática no Instituto Federal. Meus hobbys e tenis de mesa e voleibol, E gosto de jogar jogos de FPS. 
+
+ ## 📚 Projetos realizados
+
+Participação em projeto de pesquisa, onde estou envolvido: IFSECURITY: mapeamento e implementação de plataforma na prevenção de cibercrimes.
+
+Participação em projeto de ensino, onde estou envolvido: ULTRA PONG; Visualizar	Modelagem 3D, fundição e aplicação em ciclones do processamento mineral
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lukxz1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Lohan github status" /> 
@@ -15,6 +25,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/lllukxz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/lllukxz/" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 <a href="mailto:lohancosta@acad.ifma.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=Gmail&logoColor=white"</a>
 </div> 
 
@@ -38,19 +49,9 @@
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lukxz1}/count.svg" /></p> 
-<br></div>
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
