@@ -9,7 +9,7 @@
 
 Participação em projeto de pesquisa, onde estou envolvido: IFSECURITY: mapeamento e implementação de plataforma na prevenção de cibercrimes.
 
-Participação em projeto de ensino, onde estou envolvido: ULTRA PONG; Visualizar	Modelagem 3D, fundição e aplicação em ciclones do processamento mineral
+Participação em projeto de ensino, onde estou envolvido: Modelagem 3D; Visualizar	Modelagem 3D, fundição e aplicação em ciclones do processamento mineral
 
 
 <div align="center">  
