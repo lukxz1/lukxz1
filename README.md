@@ -1,4 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
+
+<div align="center">
+  <img height="250" src="https://i.pinimg.com/736x/32/1d/1a/321d1acaaf90ed94ae60c60e1bf96ed9.jpg"  />
+</div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OI,+MEU+NOME+E+Lucas+Lohan+Costa+Farias;EU+Tenho+17+Anos;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg) 
 ## 👨‍💻 Quem sou eu
